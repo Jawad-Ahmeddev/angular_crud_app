@@ -1,0 +1,30 @@
+.content{
+    padding-top: 10px;
+}
+
+.row{
+    display: flex;
+    gap: 10px 
+}
+
+.inputgap{
+    width: 100%;
+}
+
+.action{
+    padding: 10px 25px 20px;
+    button{
+        flex: 1;
+    }
+}
+
+.error {
+    display: block;
+    opacity: 1;
+    border: 1px solid darkred;
+  background: salmon;
+  padding: 10px;
+  color: white;
+  margin-top: 100px;
+  
+}
